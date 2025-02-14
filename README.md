@@ -29,7 +29,7 @@ const aboutMe = {
   tools: ["Figma", "Adobe XD", "React", "Node.js"],
   interests: ["UX/UI", "Game Development", "Front-end Design"],
   funFact: "I love cats! 🐱"
-};
+}; ```
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Imparaloy&show_icons=true&theme=tokyonight" alt="GitHub Stats"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imparaloy&theme=tokyonight" alt="GitHub Streak"> </p>
 🛠️ Languages and Tools
@@ -37,4 +37,4 @@ const aboutMe = {
 
 📫 Connect with Me
 <p align="center"> <a href="https://linkedin.com/in/Imparaloy" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a> <a href="https://twitter.com/Imparaloy" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imparaloy&color=blueviolet" alt="Profile views"> </p> ```
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Imparaloy&color=blueviolet" alt="Profile views"> </p> 
