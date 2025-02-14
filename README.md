@@ -46,6 +46,12 @@
 <h3 align="center">📊 GitHub Stats & Top Languages</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Imparaloy&show_icons=true&theme=radical&hide_border=true&count_private=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imparaloy&layout=compact&theme=radical&hide_border=true&custom_width=350" width="350"/>
+  <div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Imparaloy&show_icons=true&theme=radical" height="150">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imparaloy&layout=compact&theme=radical" height="150">
+
+</div>
+
 </p>
