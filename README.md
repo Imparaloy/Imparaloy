@@ -15,9 +15,7 @@
 
 ## 🚀 About Me  
 
-```javascript
-const aboutMe = {
-  name: "Imparaloy",
+name: "Imparaloy",
   role: "Full Stack Developer & UX/UI Enthusiast",
   education: {
     university: "King Mongkut’s Institute of Technology Ladkrabang",
@@ -29,7 +27,7 @@ const aboutMe = {
   tools: ["Figma", "Adobe XD", "React", "Node.js"],
   interests: ["UX/UI", "Game Development", "Front-end Design"],
   funFact: "I love cats! 🐱"
-}; ```
+  
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Imparaloy&show_icons=true&theme=tokyonight" alt="GitHub Stats"> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Imparaloy&theme=tokyonight" alt="GitHub Streak"> </p>
 🛠️ Languages and Tools
